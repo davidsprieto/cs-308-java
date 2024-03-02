@@ -1,5 +1,4 @@
-package AssignementTwo;
-
+package AssignmentTwo;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;

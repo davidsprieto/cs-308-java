@@ -1,1 +1,4 @@
-# cs-308-java
+# CS-308: Operating Systems
+
+Programming Language:
+- Java
